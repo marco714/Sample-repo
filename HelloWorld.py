@@ -13,4 +13,7 @@ print(r.ok)
 def divide_func(x, y):
     return x / y
 
-result = divide_func(6,3)
+def subtract_func(x,y):
+    return x - y
+result2 = divide_func(6,3)
+result1 = subtract(6,4)
